@@ -14,13 +14,13 @@ Languages that I've been working with:
   - Node.js
   - Tailwind (css)
 
-Recent launched clients:
+Recent launched clients that I worked with:
   - BMW (Germany)
   - Warner Media (UK)
   
-- 👀 I’m very curious as a person and love to build different things on my spear time. I've been working with React library a lot the recent months and
+👀 I’m very curious as a person and love to build different things on my spear time. I've been working with React library a lot the recent months and
      I find it really powerfull and funny to work with. 
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 Mail: ayoubboujrad@outlook.com
 Linkedin: https://www.linkedin.com/in/ayoubboujrad/
