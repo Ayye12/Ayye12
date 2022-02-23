@@ -13,10 +13,6 @@ Languages that I've been working with:
   - React Native/JS
   - Node.js
   - Tailwind (css)
-
-Recent launched clients that I worked with:
-  - BMW (Germany)
-  - Warner Media (UK)
   
 👀 I’m very curious as a person and love to build different things on my spear time. I've been working with React library a lot the recent months and
      I find it really powerfull and funny to work with. 
